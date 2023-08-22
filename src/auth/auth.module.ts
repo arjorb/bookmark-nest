@@ -4,4 +4,4 @@ import { Module } from "@nestjs/common";
     imports: [],
 })
 
-export class authModule{}
+export class AuthModule{}
